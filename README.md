@@ -1,6 +1,6 @@
 <div>
   <img widht=100% src="https://capsule-render.vercel.app/api?type=venom&height=169&color=dda74b&text=Olá!%20Sou%20a%20Rebeca%20Sena&reversal=false&fontColor=df4b66&fontSize=40&fontAlignY=50&descAlign=60">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=arial&weight=200&color=F5C275&vCenter=true&random=false&width=500&lines=Estou+buscando+est%C3%A1gio+na+%C3%A1rea+de+tecnologia." alt="Typing SVG"/></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=arial&weight=200&color=F5C275&vCenter=true&random=false&width=500&lines=Estou+buscando+est%C3%A1gio+na+%C3%A1rea+de+tech." alt="Typing SVG"/></a>
 </div>
 
 ##
