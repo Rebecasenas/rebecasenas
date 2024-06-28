@@ -15,9 +15,9 @@
   
 <!-- Contador star, commits etc. -->
   <a href="https://github.com/Rebecasenas">
-    <img align="center" height="250em" src="https://github-readme-stats.vercel.app/api?username=rebecasenas&hide=contribs&show_icons=true&theme=onedark&include_all_commits-true&count_private-true"/>
+    <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=rebecasenas&hide=contribs&show_icons=true&theme=onedark&include_all_commits-true&count_private-true"/>
 <!-- Linguagens mais usadas-->
-    <img align="center" height="250em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rebecasenas&theme=onedark"/>
+    <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rebecasenas&theme=onedark"/>
   </a>
   
 </div>
