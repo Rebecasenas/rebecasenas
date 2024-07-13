@@ -29,9 +29,10 @@
 </div>
 
 ##
-<!-- Gráfico-->
+<!-- Gráfico
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=rebecasenas&bg_color=0d1117&color=ddb141&line=dca74c&point=ea5757&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 <div>
+-->
 
 <div style="display: inline-block;">
   <a href="https://www.instagram.com/red_becka/" target="_blank">
