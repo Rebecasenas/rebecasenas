@@ -9,7 +9,7 @@
 ##
 
 - Estudante na modalidade tecnólogo, cursando Análise e Desenvolvimento de Sistemas.
-- Estudando em cursos extracurriculares Python, HTML5 e CSS3.
+- Estudando em cursos extracurriculares Python, HTML5, CSS3, Java e Javascript.
 - Contate-me no e-mail: rebecasenas@outlook.com
 - Pronome: ela/dela.
 ##
