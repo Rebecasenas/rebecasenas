@@ -1,6 +1,9 @@
 <div>
+<!-- animação (para gerar um novo acesse: https://capsule-render.vercel.app/   ) -->
   <img widht=100% src="https://capsule-render.vercel.app/api?type=venom&height=169&color=dda74b&text=Olá!%20Sou%20a%20Rebeca%20Sena&reversal=false&fontColor=df4b66&fontSize=40&fontAlignY=50&descAlign=60">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=arial&weight=200&color=F5C275&vCenter=true&random=false&width=500&lines=Estou+buscando+est%C3%A1gio+na+%C3%A1rea+de+tech." alt="Typing SVG"/></a>
+
+<!-- Frase em loop (site para gerar um novo:  https://readme-typing-svg.herokuapp.com/demo/?font=arial&color=F75C11&lines=Estagiaria+em+produtos+digitais+na+Natura+%26+Co  ) -->
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=arial&pause=1000&color=F75C11&width=435&lines=Estagiaria+em+produtos+digitais+na+Natura+%26+Co)](https://git.io/typing-svg)
 </div>
 
 ##
@@ -19,7 +22,9 @@
 <!-- Linguagens mais usadas-->
     <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rebecasenas&theme=onedark"/>
   </a>
-  
+
+
+  <!-- ícones de linguagens -->
 </div>
 <div style="display: inline-block;"><br>
   <img align="center" alt="beca-py" height="40" width="50"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
@@ -34,6 +39,8 @@
 <div>
 -->
 
+
+<!-- Redes sociais -->
 <div style="display: inline-block;">
   <a href="https://www.instagram.com/red_becka/" target="_blank">
   <img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" >
