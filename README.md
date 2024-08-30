@@ -34,21 +34,22 @@
 </div>
 
 ##
-<!-- Gráfico
+<!-- Gráfico. Para gerar um novo acesse o tutorial em: https://github.com/Ashutosh00710/github-readme-activity-graph?tab=readme-ov-file#how-to-use  ) -->
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=rebecasenas&bg_color=0d1117&color=ddb141&line=dca74c&point=ea5757&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 <div>
--->
 
 
 <!-- Redes sociais -->
 <div style="display: inline-block;">
   <a href="https://www.instagram.com/red_becka/" target="_blank">
   <img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" >
-</a>
+</a>r
   <a href="https://www.linkedin.com/in/rebeca-sena-dos-santos-aa9365314/" target="_blank">
   <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" >
 </a>
 </div>
 
+
+<!-- Animação no footer. para gerar uma nova acesse:  https://capsule-render.vercel.app/   ) -->
   <img widht=100% src="https://capsule-render.vercel.app/api?type=waving&height=169&color=dda74b&reversal=true&fontColor=df4b66&fontSize=40&fontAlignY=50&descAlign=60&section=footer">
 </div>
