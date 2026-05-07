@@ -1,38 +1,26 @@
 <div>
 <!-- animação (para gerar um novo acesse: https://capsule-render.vercel.app/   ) -->
-  <img widht=100% src="https://capsule-render.vercel.app/api?type=venom&height=169&color=dda74b&text=Olá!%20Sou%20a%20Rebeca%20Sena&reversal=false&fontColor=df4b66&fontSize=40&fontAlignY=50&descAlign=60">
+  <img widht=100% src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Olá!%20Seja%20bem%20vindo&textBg=false&fontSize=35">
 
-<!-- Frase em loop (site para gerar um novo:  https://readme-typing-svg.herokuapp.com/demo/?font=arial&color=F75C11&lines=Estagiaria+em+produtos+digitais+na+Natura+%26+Co  ) -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=arial&pause=1000&color=F75C11&width=435&lines=Estagiaria+em+produtos+digitais+na+Natura+%26+Co)](https://git.io/typing-svg)
+<!-- Frase em loop (site para gerar um novo:  https://readme-typing-svg.herokuapp.com/demo/)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=arial&pause=1000&color=F75C11&width=435&lines=Estagiaria+em+produtos+digitais+na+Natura+%26+Co)](https://git.io/typing-svg) -->
+
+Formada em Análise e Desenvolvimento de Sistemas | Me desenvolvendo na área de DataVis.
+
 </div>
+
+### Tecnologias e ferramentas em aprendizado
+❋ SQL e banco de dados;<br>
+❋ Power BI;<br>
+❋ Excel;<br>
 
 ##
 
-- Estudante na modalidade tecnólogo, cursando Análise e Desenvolvimento de Sistemas.
-- Estudando em cursos extracurriculares Python, HTML5, CSS3, Java e Javascript.
-- Contate-me no e-mail: rebecasenas@outlook.com
-- Pronome: ela/dela.
-##
-<br>
-<div style="display: inline-block;>
-  
-<!-- Contador star, commits etc. -->
-  <a href="https://github.com/Rebecasenas">
-    <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=rebecasenas&hide=contribs&show_icons=true&theme=onedark&include_all_commits-true&count_private-true"/>
-<!-- Linguagens mais usadas | acesse: https://github.com/anuraghazra/github-readme-stats -->
-    <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rebecasenas&theme=onedark"/>
-  </a>
-
-
-  <!-- ícones de linguagens -->
-</div>
-<div style="display: inline-block;"><br>
-  <img align="center" alt="beca-py" height="40" width="50"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
-  <img align="center" alt="beca-py" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
-  <img align="center" alt="beca-py" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
-  <img align="center" alt="beca-py" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
-  <img align="center" alt="beca-py" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
-</div>
+![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![EXCEL](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![VSCODE](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![GOOGLE SHEETS](https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white)
 
 ##
 <!-- Gráfico. Para gerar um novo acesse o tutorial em: https://github.com/Ashutosh00710/github-readme-activity-graph?tab=readme-ov-file#how-to-use  ) -->
@@ -42,10 +30,7 @@
 
 <!-- Redes sociais -->
 <div style="display: inline-block;">
-  <a href="https://www.instagram.com/red_becka/" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" >
-</a>
-  <a href="https://www.linkedin.com/in/rebeca-sena-dos-santos-aa9365314/" target="_blank">
+    <a href="https://www.linkedin.com/in/rebeca-sena-dos-santos-aa9365314/" target="_blank">
   <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" >
 </a>
 </div>
